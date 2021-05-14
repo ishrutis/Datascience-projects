@@ -1,2 +1,2 @@
-# Datascience-projects
+# Terrorism dataset analysis
 All projects will be related to data science. Starting from very basic projects to advanced projects.
