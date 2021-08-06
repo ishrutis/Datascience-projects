@@ -1,5 +1,5 @@
 # Datascience-projects
-This repository consists of projects of analysing datasets by using different data science techniques. Details about this repository is as follows:-
+This repository consist of projects of analysing datasets by using different data science techniques. Details about this repository is as follows:-
 
 # Number of projects
 - 06
